@@ -83,9 +83,9 @@ const HowItWorks = () => {
               
 
               <div className="flex-1 flex justify-center flex-col g_fadeIn">
-                <p className="hiw-text">Made By:</p>
-                <p className="hiw-bigtext">Bilal Faisal</p>
-                <p className="hiw-text">Best Regards</p>
+                <p className="hiw-text">New</p>
+                <p className="hiw-bigtext">Pro-Class GPU</p>
+                <p className="hiw-text">with 6 cores</p>
               </div>
               </div>
             </div>
